@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# run this scrpt in bspwmrc & disown
+
 # while bspc subscribe -c 1 node_focus node_flag > /dev/null; do
 #     bspc config border_with $(bspc config border_width)"
 #     bsp config -n "$(bspc query -N -n .marked)" border_width 10;;
