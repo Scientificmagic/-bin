@@ -1,2 +1,2 @@
-# ~/bin
+# ~/bin/
 For personal scripts and whatnot
